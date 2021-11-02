@@ -1,0 +1,136 @@
+html {
+  font-family: arial;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+  font-size:12px;	  
+}
+
+.border{
+	border-top		:2px solid #000;
+	border-bottom	:1px solid #000;
+	margin-bottom:10px;
+	height:2px
+}
+
+table {
+    border-collapse: collapse;
+	width:100%;
+}
+
+.preview{
+	margin:auto;
+
+}
+
+
+
+hr{
+	margin:0px;
+}
+
+.title{
+	text-align:center;
+	text-transform:capitalize;
+	font-size:21px;
+}
+
+.logo{
+	margin:auto;
+	position:absolute;
+	width:220px;
+
+}
+
+.footer{
+	border-top		:2px solid #000;
+	border-bottom	:2px solid #000;
+	text-align:center;
+	padding:2px;
+	text-transform:capitalize;
+
+}
+
+.title_1{
+	text-align:left;
+	float:left;
+	margin-right:20px;
+	text-transform:capitalize;
+	margin-bottom:10px;
+}
+
+small{
+	font-size:12px
+}
+
+img {
+	max-width:100%;
+	display:auto;
+	margin:auto;
+	position:relative;
+}
+
+.text-center{
+	text-align:center;
+}
+
+.text-capitalize{
+	text-transform:capitalize;
+}
+
+
+.text-uppercase{
+	text-transform:uppercase;
+}
+
+
+table, th, td {
+    border: 1px solid black;
+	padding:5px; 
+}
+
+.konten {
+	font-size:15px;
+	text-align:justify;
+}
+
+
+
+.table1, .table1 th, .table1 td{
+	border:0px solid #fff;
+	padding:0px 5px 5px 0px; 
+	
+}
+
+
+.table1  td.text-right{
+	text-align:right;
+}
+
+.table1  td.text-middle{
+	vertical-align:middle;
+	font-size:13px;
+}
+
+.list1{
+	display:inline-block;padding:5px 0px 5px 0px;	
+	border-bottom: 1px solid black;
+	 
+}
+
+.box1{
+	display:inline-block;
+	background:#ddd;
+	border:1px solid #000;
+	width:23px;
+	height:19px;
+	
+}
+
+
+.data{
+	text-transform:capitalize;
+}
+
+.print{
+	background:#fff;
+}
